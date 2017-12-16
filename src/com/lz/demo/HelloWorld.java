@@ -6,5 +6,6 @@ package com.lz.demo;
 public class HelloWorld {
     public static void main(String args[]) {
         System.out.println("helloworld");
+	System.out.println(this is add"");
     }
 }
